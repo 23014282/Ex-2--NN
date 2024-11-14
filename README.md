@@ -1,5 +1,5 @@
-<H3>Name:GURU REVANTH KUMARAVEL RADHIKA</H3>
-<H3>Register no.:212223230065</H3>
+<H3>Name:A JEEVITH</H3>
+<H3>Register no.:212223240059</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
